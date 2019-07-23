@@ -2744,6 +2744,7 @@ footer.details h1 {
 footer.short {
   font-size: 16px;
   color: #fff;
+  margin-right: 0;
 }
 footer.short .sub {
   opacity: 0.5;
@@ -2772,10 +2773,11 @@ footer.short .social-icons li a {
 footer.short-2 {
   position: relative;
   overflow: hidden;
+
 }
 footer.short-2 span {
   display: inline-block;
-  margin-right: 64px;
+  margin-right: 0px;
 }
 footer.short-2 span:last-child {
   margin-right: 0px;
